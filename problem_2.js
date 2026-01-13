@@ -10,4 +10,4 @@ function countVowels(string) {
 
   return count;
 }
-console.log(countVowels("volyball"));
+console.log(countVowels("amanda"));
